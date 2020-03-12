@@ -1,0 +1,82 @@
+.super{
+    background-color: black;
+}
+.burgericon{
+    background-color: whitesmoke;
+}
+.navcolor{
+color: white;
+background: linear-gradient(to right, #000000 24%, #e74c3c 100%);
+opacity: 0.9;
+z-index: 50;
+}
+.navcolor a{
+    color: white;
+} 
+.navcolor a:hover {
+    color:#e74c3c;
+}
+.dropboxcolor{
+    color: white;
+    background-color: black;
+    opacity: 0.9;
+}
+.navbutton{
+    color: white;
+    border:none;
+}
+.navbutton:hover{
+    background-color: black;
+}
+.navdropdown{
+    color: white;
+background: linear-gradient(to bottom, #000000 24%, #e74c3c 100%);
+}
+.buttoncol{
+    color: black;
+    border: 5px black ;
+    font-weight: bold;
+}
+.buttoncol:hover{
+    background-color: black;
+    color: whitesmoke;
+}
+.newsbox{
+    background: black;
+    color: whitesmoke;
+    opacity: 0.9;
+    border: 10px solid red;
+    
+}
+.newsboxborder{
+    border: 10px solid;
+    border-image-source: linear-gradient(45deg, rgb(0,143,104), rgb(250,224,66));
+  border-image-slice: 1;
+}
+ .newsbegin{
+    background: linear-gradient(to right,#C33764 15%, #1D2671 100%);
+    padding: 30px 50px ;
+    
+    color: black;
+    font-size: 30px;
+    text-align: center;
+    font-weight: bolder;
+
+ }
+
+.button1{
+    color: black;
+    background: linear-gradient(to right,#C33764 23%, #1D2671 100%);
+    border: 4px solid black; 
+}
+.button1:hover{
+background-color: black;
+color: whitesmoke;
+}
+
+.newstext{
+    color: white;
+}
+.socio{
+    background: linear-gradient(to right,#C33764 23%, #1D2671 100%);
+}
